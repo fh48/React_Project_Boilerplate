@@ -1,6 +1,6 @@
 import React from 'react';
 
-const App = () => <div> Hello from React and so! </div>;
+const App = () => <div> This should be test </div>;
 
 export default App;
 

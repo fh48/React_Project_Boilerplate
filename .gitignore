@@ -3,3 +3,7 @@ node_modules/
 dist/
 package-lock.json
 config.yaml
+.build
+server/.build/0.b7001443f357966c0b80.hot-update.js
+server/.build/b0cff38687df5c560a7e.hot-update.json
+server/.build/b7001443f357966c0b80.hot-update.json
